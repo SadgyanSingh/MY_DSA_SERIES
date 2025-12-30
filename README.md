@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1025-divisor-game) |
 | [1175-prime-arrangements](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1175-prime-arrangements) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0561-array-partition) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0944-delete-columns-to-make-sorted) |
+| [0989-add-to-array-form-of-integer](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0989-add-to-array-form-of-integer) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1800-maximum-ascending-subarray-sum) |
