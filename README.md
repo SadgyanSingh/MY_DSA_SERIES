@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1025-divisor-game) |
+| [1154-day-of-the-year](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1175-prime-arrangements) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1925-count-square-sum-triples) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0415-add-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0944-delete-columns-to-make-sorted) |
+| [1154-day-of-the-year](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1154-day-of-the-year) |
 ## Array
 |  |
 | ------- |
