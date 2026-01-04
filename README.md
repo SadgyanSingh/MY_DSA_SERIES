@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1175-prime-arrangements) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1390-four-divisors](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2235-add-two-integers) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0989-add-to-array-form-of-integer) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1800-maximum-ascending-subarray-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3005-count-elements-with-maximum-frequency) |
