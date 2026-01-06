@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2235-add-two-integers) |
 | [3099-harshad-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3270-find-the-key-of-the-numbers](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3270-find-the-key-of-the-numbers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3516-find-closest-person) |
 ## String
