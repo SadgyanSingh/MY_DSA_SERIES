@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0561-array-partition) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0944-delete-columns-to-make-sorted) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0561-array-partition) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3074-apple-redistribution-into-boxes) |
