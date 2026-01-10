@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1175-prime-arrangements) |
+| [1185-day-of-the-week](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1185-day-of-the-week) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1390-four-divisors) |
