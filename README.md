@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1903-largest-odd-number-in-string](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2235-add-two-integers) |
 | [2614-prime-in-diagonal](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2614-prime-in-diagonal) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0415-add-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0944-delete-columns-to-make-sorted) |
 | [1154-day-of-the-year](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1154-day-of-the-year) |
+| [1903-largest-odd-number-in-string](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0561-array-partition) |
+| [1903-largest-odd-number-in-string](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1903-largest-odd-number-in-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3074-apple-redistribution-into-boxes) |
 ## Counting Sort
 |  |
