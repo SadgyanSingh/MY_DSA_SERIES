@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2235-add-two-integers) |
 | [2614-prime-in-diagonal](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2614-prime-in-diagonal) |
 | [3099-harshad-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3099-harshad-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2614-prime-in-diagonal) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3074-apple-redistribution-into-boxes) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2614-prime-in-diagonal) |
 ## Geometry
 |  |
