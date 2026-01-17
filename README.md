@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2614-prime-in-diagonal) |
 | [3099-harshad-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3270-find-the-key-of-the-numbers](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3270-find-the-key-of-the-numbers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3516-find-closest-person) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Matrix
 |  |
