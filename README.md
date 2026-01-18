@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1390-four-divisors) |
+| [1512-number-of-good-pairs](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1925-count-square-sum-triples) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1512-number-of-good-pairs) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2614-prime-in-diagonal) |
@@ -139,11 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1512-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1512-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
