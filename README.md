@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0342-power-of-four) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
