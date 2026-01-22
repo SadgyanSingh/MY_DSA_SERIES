@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2614-prime-in-diagonal) |
+| [2652-sum-multiples](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3232-find-if-digit-game-can-be-won) |
