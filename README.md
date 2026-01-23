@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0989-add-to-array-form-of-integer) |
+| [1051-height-checker](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1051-height-checker) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1051-height-checker) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3074-apple-redistribution-into-boxes) |
 ## Dynamic Programming
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1051-height-checker) |
 ## Linked List
 |  |
 | ------- |
