@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1512-number-of-good-pairs) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2614-prime-in-diagonal) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0876-middle-of-the-linked-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1051-height-checker) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3074-apple-redistribution-into-boxes) |
 ## Dynamic Programming
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0561-array-partition) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1903-largest-odd-number-in-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3074-apple-redistribution-into-boxes) |
 ## Counting Sort
